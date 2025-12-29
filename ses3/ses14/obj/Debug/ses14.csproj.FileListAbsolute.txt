@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\ses14\ses14\bin\Debug\ses14.exe.config
+C:\Users\ASUS\Desktop\ses14\ses14\bin\Debug\ses14.exe
+C:\Users\ASUS\Desktop\ses14\ses14\bin\Debug\ses14.pdb
+C:\Users\ASUS\Desktop\ses14\ses14\obj\Debug\ses14.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ses14\ses14\obj\Debug\ses14.MainForm.resources
+C:\Users\ASUS\Desktop\ses14\ses14\obj\Debug\ses14.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\ses14\ses14\obj\Debug\ses14.exe
+C:\Users\ASUS\Desktop\ses14\ses14\obj\Debug\ses14.pdb
